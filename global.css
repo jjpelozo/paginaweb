@@ -13,11 +13,6 @@
 .overflow .card-img-top:hover {
     transform: scale(1.8);
 }
-.header__logo {
-    background-image: url(./public/logo_transparent.png);
-    background-repeat: no-repeat;
+.header__logo {    
     height: 70vh;
-    background-size: cover;
-    background-position: center
-    
   }
