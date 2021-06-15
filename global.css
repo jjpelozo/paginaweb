@@ -1,3 +1,5 @@
+
+
 .overflow {
     height: 50%;
     overflow: hidden;
@@ -12,5 +14,10 @@
     transform: scale(1.8);
 }
 .header__logo {
-    height: 100vh;
+    background-image: url(./public/logo_transparent.png);
+    background-repeat: no-repeat;
+    height: 70vh;
+    background-size: cover;
+    background-position: center
+    
   }
