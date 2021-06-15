@@ -6,7 +6,7 @@ function Header() {
 
             </div>
             <div className='text-center mb-5'>
-            <Link href="/hireme">
+            <Link to="proyectos" smooth duration={1000}>
                 <a className="btn btn-outline-light">Ver mas</a>
               </Link>
             </div>
