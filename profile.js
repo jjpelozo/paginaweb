@@ -4,7 +4,7 @@ export const proyectos = [
         nombre:"ONG-Techo.arg",
         descripcion: "Página web de donaciones para Techo Argentina. Se trabajo desde cero, junto a un gran equipo, teniendo en cuenta los puntos principales solicitados por el cliente. ", 
         imagen: "Dona Techo.jpg", 
-        web: "http://138.197.111.45:3000/"
+        web: "https://donar.techo.org.ar/"
     },
     {
         nombre:"Estudio Juridico",
