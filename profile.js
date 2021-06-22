@@ -7,6 +7,12 @@ export const proyectos = [
         web: "https://donar.techo.org.ar/"
     },
     {
+        nombre:"Demo-landing",
+        descripcion: "Demo de una landing page, de un diario de la ciudad de Rosario", 
+        imagen: "landing.jpg", 
+        web: "https://github.com/jjpelozo/demo-landing"
+    },
+    {
         nombre:"Estudio Juridico",
         descripcion: "Trabajo realizado para un  estudio juridico de la ciudad de Rosario. Es una aplicacion web para administrar las carpetas de los casos que llevan adelante el equipo de abogados que integran el estudio juridico ", 
         imagen: "gestor-carpetas.jpg", 

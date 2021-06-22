@@ -13,7 +13,7 @@ function Proyectos() {
               <div className="col-md-4 p-2" key={i}>
                 <div className="card h-100">
                   <div className="overflow">
-                    <img src={`/${imagen}`} alt="" className="card-img-top"/>
+                    <img loading="lazy" src={`/${imagen}`}  alt="" className="card-img-top"/>
                   </div>
                   <div className="card-body ">
                     <h3>{nombre}</h3>

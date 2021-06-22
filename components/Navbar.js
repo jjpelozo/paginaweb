@@ -25,7 +25,7 @@ function Navbar() {
                 Sobre mi
               </a>
             </li>
-            <li className="nav-item">
+            <li className="     ">
             <span className="nav-link text-white whiteHover">
               <Link to="proyectos" smooth duration={1000}>
                 Proyectos
@@ -36,7 +36,7 @@ function Navbar() {
         </div>
         <div className="d-flex justify-content-between">
           <div className="">
-            <a href="https://www.linkedin.com/in/jjpelozo/" target="blanck">
+            <a href="https://www.linkedin.com/in/jjpelozo/" target="blank">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="40"
@@ -51,7 +51,7 @@ function Navbar() {
             </a>
           </div>
           <div className="">
-            <a href="https://github.com/jjpelozo" target="blanck">
+            <a href="https://github.com/jjpelozo" target="blank">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="40"
@@ -65,7 +65,7 @@ function Navbar() {
             </a>
           </div>
           <div className="">
-            <a href="mailto:jesusjpelozo@gmail.com" target="blanck">
+            <a href="mailto:jesusjpelozo@gmail.com" target="blank">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="40"
